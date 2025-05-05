@@ -1,0 +1,1 @@
+chat gpt debuggign and automation
